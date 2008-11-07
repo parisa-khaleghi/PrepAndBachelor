@@ -1,0 +1,10 @@
+G:\University\Kardani\Term 1\Mabani VB\My Project\P3 - caculator\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+G:\University\Kardani\Term 1\Mabani VB\My Project\P3 - caculator\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+G:\University\Kardani\Term 1\Mabani VB\My Project\P3 - caculator\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+G:\University\Kardani\Term 1\Mabani VB\My Project\P3 - caculator\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+G:\University\Kardani\Term 1\Mabani VB\My Project\P3 - caculator\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+G:\University\Kardani\Term 1\Mabani VB\My Project\P3 - caculator\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+G:\University\Kardani\Term 1\Mabani VB\My Project\P3 - caculator\WindowsApplication4\obj\Debug\ResolveAssemblyReference.cache
+G:\University\Kardani\Term 1\Mabani VB\My Project\P3 - caculator\WindowsApplication4\obj\Debug\WindowsApplication1.Form1.resources
+G:\University\Kardani\Term 1\Mabani VB\My Project\P3 - caculator\WindowsApplication4\obj\Debug\WindowsApplication1.Resources.resources
+G:\University\Kardani\Term 1\Mabani VB\My Project\P3 - caculator\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
