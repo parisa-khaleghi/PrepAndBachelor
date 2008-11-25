@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Form1.resources
+obj\Debug\WindowsApplication1.Resources.resources
+bin\Debug\Shap.exe
+bin\Debug\Shap.pdb
+bin\Debug\Shap.xml
+obj\Debug\Shap.vbproj.GenerateResource.Cache
+obj\Debug\Shap.exe
+obj\Debug\Shap.xml
+obj\Debug\Shap.pdb
+bin\Debug\Shap.exe.config
