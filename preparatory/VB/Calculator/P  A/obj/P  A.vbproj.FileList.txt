@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Form1.resources
+obj\Debug\WindowsApplication1.Resources.resources
+obj\Debug\WindowsApplication1.Form2.resources
+bin\Debug\P  A.exe
+bin\Debug\P  A.pdb
+bin\Debug\P  A.xml
+obj\Debug\P  A.vbproj.GenerateResource.Cache
+obj\Debug\P  A.exe
+obj\Debug\P  A.xml
+obj\Debug\P  A.pdb
