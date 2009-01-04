@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Form1.resources
+obj\Debug\WindowsApplication1.Resources.resources
+bin\Debug\Print.exe
+bin\Debug\Print.pdb
+bin\Debug\Print.xml
+obj\Debug\Print.vbproj.GenerateResource.Cache
+obj\Debug\Print.exe
+obj\Debug\Print.xml
+obj\Debug\Print.pdb
