@@ -22,4 +22,4 @@ Contributions to this project are welcome. If you find a bug or have a feature r
 
 # License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the <a href="https://chat.openai.com/LICENSE" target="_blank">LICENSE</a> file for details.
